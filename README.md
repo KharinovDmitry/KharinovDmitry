@@ -1,6 +1,3 @@
 <h1>Hello, World!</h1>
 
-### My current skills:
-+ Go
-+ Docker
-+ Postgres
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sug4chy&show_icons=true&theme=dark#gh-dark-mode-only)
